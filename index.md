@@ -1,3 +1,14 @@
+## cyFAIRhackTesting
+
+This cyFAIRevaulator is based on [Cypress testing framework](https://www.cypress.io/) which is
+fast, easy and reliable testing for anything that runs in a browser. To complete end-to-end testing experience and
+combines tests on HTTP header as well in the HTTP body.
+
+The code is developed thru the [Apples-to-Apples Workshop](https://github.com/markwilkinson/Apples-to-Apples-FAIR-Metrics) which takes place
+on Monday, March 21.th 2022.
+
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ACz-UniBi/cyFAIRhackTesting/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
