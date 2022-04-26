@@ -21,7 +21,7 @@ Then, make a change of the directory to this project and run the command
 
 ``./node_modules/.bin/cypress open``
 
-Select 'sample_spec.js' file and as default, a exists of records from `PANGAEA <https://pangaea.de>`_ and 
+Select the file 'sample_spec.js' and by default a set of records from `PANGAEA <https://pangaea.de>`_ and 
 from `Bielefeld University Library Repository <https://pub.uni-bielefeld.de>`_ will be checked.
-Afterwards, the records will be evaluate of existing attributes from `Signposting FAIR <https://signposting.org/FAIR/>`_ profile.
+Then the records are evaluated for existing attributes from the profile `Signposting FAIR <https://signposting.org/FAIR/>`_.
 
